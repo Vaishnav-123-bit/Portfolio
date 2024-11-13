@@ -253,7 +253,7 @@ const projects = [
     source_code_link: "https://github.com/Vaishnav-123-bit/mern-bookstore",
   },
   {
-    name: "E-COMMERCE",
+    name: "E-Commerce",
     description:
       "An eCommerce site using HTML, CSS, and JavaScript for product display, cart management, and dynamic updates. HTML structures content, CSS styles the design, and JavaScript enables interactivity like adding items to the cart.",
     tags: [
