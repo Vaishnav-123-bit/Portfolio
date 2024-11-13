@@ -9,7 +9,7 @@ const App = () => {
     <BrowserRouter>
       <div className='relative z-0 bg-primary'>
        <Navbar/>
-       <Hero className="z-30"/>
+       <Hero/>
         <About />
         <Experience />
         <Tech />
