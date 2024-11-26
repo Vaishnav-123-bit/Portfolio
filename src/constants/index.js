@@ -70,62 +70,73 @@ const services = [
 ];
 
 const technologies = [
-// name:"Next JS",
-// icon:nextjs,
-// },
   {
     name: "HTML 5",
     icon: html,
+    description: "Structure of web pages",
   },
   {
     name: "CSS 3",
     icon: css,
+    description: "Styling and layout ",
   },
   {
     name: "JavaScript",
     icon: javascript,
+    description: "Interactivity",
   },
   {
     name: "TypeScript",
     icon: typescript,
+    description: "JavaScript static types",
   },
   {
     name: "React JS",
     icon: reactjs,
+    description: "Library for building UI",
   },
   {
     name: "Redux Toolkit",
     icon: redux,
+    description: "State management",
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
+    description: "CSS framework",
   },
   {
     name: "Node JS",
     icon: nodejs,
+    description: "runtime for backend",
   },
   {
     name: "MongoDB",
     icon: mongodb,
+    description: "NoSQL database",
   },
   {
     name: "Three JS",
     icon: threejs,
+    description: "3D graphics",
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
+    description: "Version control",
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
+    description: "Design tool for UI/UX",
   },
   {
-    name: "docker",
+    name: "Docker",
     icon: docker,
+    description: "Containerization",
   },
 ];
+
 
 const experiences = [
   {
